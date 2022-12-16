@@ -1,0 +1,4 @@
+.git
+.cache
+backend/node_modules/
+frontend/node_modules/

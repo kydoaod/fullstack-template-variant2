@@ -3,7 +3,7 @@
         "HOST": "localhost",
         "PROTOCOL" : "http",
         "LOG_PATH": "logs/",
-        "PORT": 3000,
+        "PORT": 5000,
         "DB": {
                 "user": "xx",
                 "host": "localhost",
